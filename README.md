@@ -46,11 +46,11 @@ XOX_oyunu/
 
 ## Ekran Görüntüleri
 
-- **Ana Menü:** ![Ana Menü](docs/screenshots/Giriş Ekranı.jpeg)
+- **Ana Menü:** ![Ana Menü](Giriş Ekranı.jpeg)
 
-- **Oyuncu Girişi:** ![Oyuncu Girişi](docs/screenshots/Oyuncu isim giriş ekranı.jpeg)
+- **Oyuncu Girişi:** ![Oyuncu Girişi](Oyuncu isim giriş ekranı.jpeg)
 
-- **Oyun Ekranı:** ![Oyun Ekranı](docs/screenshots/Oyun ve Skor Tablosu.jpeg)
+- **Oyun Ekranı:** ![Oyun Ekranı](Oyun ve Skor Tablosu.jpeg)
 
 ## Lisans
 
