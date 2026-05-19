@@ -21,7 +21,7 @@
 ## Kurulum ve Çalıştırma
 
 ```bash
-git clone https://github.com/KULLANICI_ADINIZ/XOX_oyunu.git
+git clone https://github.com/ayberkertan/XOX_oyunu.git
 cd XOX_oyunu
 dotnet build XOX_oyunu.sln
 dotnet run --project XOX_oyunu/XOX_oyunu.csproj
