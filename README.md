@@ -46,10 +46,11 @@ XOX_oyunu/
 
 ## Ekran Görüntüleri
 
-Uygulamayı çalıştırdıktan sonra ekran görüntülerini `docs/screenshots/` klasörüne ekleyebilirsiniz:
+- **Ana Menü:** ![Ana Menü](docs/screenshots/Giriş Ekranı.jpeg)
 
-- `menu.png` — Ana menü
-- `game.png` — Oyun ekranı
+- **Oyuncu Girişi:** ![Oyuncu Girişi](docs/screenshots/Oyuncu isim giriş ekranı.jpeg)
+
+- **Oyun Ekranı:** ![Oyun Ekranı](docs/screenshots/Oyun ve Skor Tablosu.jpeg)
 
 ## Lisans
 
