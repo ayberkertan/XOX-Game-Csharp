@@ -46,11 +46,14 @@ XOX_oyunu/
 
 ## Ekran Görüntüleri
 
-- **Ana Menü:** ![Ana Menü](Giriş Ekranı.jpeg)
+- **Ana Menü:** <br>
+  <img width="495" height="364" alt="Ana Menü" src="https://github.com/user-attachments/assets/b779b6e8-1cb3-49da-a734-8ff1c274b286" />
 
-- **Oyuncu Girişi:** ![Oyuncu Girişi](Oyuncu isim giriş ekranı.jpeg)
+- **Oyuncu Girişi:** <br>
+  <img width="401" height="343" alt="Oyuncu Girişi" src="https://github.com/user-attachments/assets/c33076af-0bf1-472f-83d1-ca9c3819cb1a" />
 
-- **Oyun Ekranı:** ![Oyun Ekranı](Oyun ve Skor Tablosu.jpeg)
+- **Oyun Ekranı:** <br>
+  <img width="349" height="495" alt="Oyun Ekranı" src="https://github.com/user-attachments/assets/72681b5c-bdf8-4dd1-afd8-b9a07e66e82b" />
 
 ## Lisans
 
